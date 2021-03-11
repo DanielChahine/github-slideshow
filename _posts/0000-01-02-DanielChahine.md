@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello world, it's Daniel
+**Don't chase people, chase results**
 Use the left arrow to go back!
